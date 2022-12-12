@@ -1,0 +1,16 @@
+{
+  "name": "parse_google_img",
+  "version": "1.0.0",
+  "description": "parse data for google",
+  "main": "parseScript.js",
+  "scripts": {
+    "start": "node redirect_link.js"
+  },
+  "keywords": [],
+  "author": "Peter",
+  "license": "ISC",
+  "dependencies": {
+    "google-search-results-nodejs": "^2.1.0",
+    "mongoose": "^6.7.3"
+  }
+}
